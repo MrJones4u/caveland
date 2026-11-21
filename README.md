@@ -2,9 +2,10 @@
 
 Caveland ist ein Aufbauspiel um ein Zwergenvolk unter der Erde – 1997 für Windows 95
 erschienen, jetzt als **Caveland Revive** neu übersetzt, damit es auf heutigen Windows-PCs läuft.
+Bisher ist nur die deutsche Version veröffentlicht, die englische folgt.
 
 *Caveland is a 1997 German building game about dwarfs underground, rebuilt to run on today's
-Windows PCs. The game is in German.*
+Windows PCs. So far only the German version has been published; the English version will follow.*
 
 ## Herunterladen
 
