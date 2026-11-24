@@ -2,17 +2,20 @@
 
 Caveland ist ein Aufbauspiel um ein Zwergenvolk unter der Erde – 1997 für Windows 95
 erschienen, jetzt als **Caveland Revive** neu übersetzt, damit es auf heutigen Windows-PCs läuft.
-Bisher ist nur die deutsche Version veröffentlicht, die englische folgt.
+Das Spiel ist auf Deutsch und Englisch: es startet in der Sprache von Windows (Deutsch oder
+Englisch; bei anderen Windows-Sprachen auf Deutsch, wenn die Region deutschsprachig ist).
 
 *Caveland is a 1997 German building game about dwarfs underground, rebuilt to run on today's
-Windows PCs. So far only the German version has been published; the English version will follow.*
+Windows PCs. It speaks German and English: it starts in the language of Windows (for other
+Windows languages in German when the region is German-speaking, otherwise in English).*
 
 ## Herunterladen
 
-**[Caveland.exe herunterladen](https://github.com/MrJones4u/caveland/releases/latest/download/Caveland.exe)**
+**[Caveland-Revive.exe herunterladen / download](https://github.com/MrJones4u/caveland/releases/latest/download/Caveland-Revive.exe)**
 (neueste Version, alle Versionen unter [Releases](https://github.com/MrJones4u/caveland/releases))
 
 - Eine einzige Datei: herunterladen und starten, keine Installation, keine CD nötig.
+- Sprache erzwingen: mit dem Parameter `/deutsch` oder `/english` starten (z.B. in einer Verknüpfung).
 - Windows 10 oder 11, 64 Bit.
 - Beim ersten Start kann Windows warnen („Der Computer wurde durch Windows geschützt“), weil die
   Datei noch nicht signiert ist. Dann auf **Weitere Informationen** und **Trotzdem ausführen**
