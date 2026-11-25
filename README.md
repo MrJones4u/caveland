@@ -1,4 +1,4 @@
-# Caveland
+# Caveland-Revive
 
 Caveland ist ein Aufbauspiel um ein Zwergenvolk unter der Erde – 1997 für Windows 95
 erschienen, jetzt als **Caveland Revive** neu übersetzt, damit es auf heutigen Windows-PCs läuft.
