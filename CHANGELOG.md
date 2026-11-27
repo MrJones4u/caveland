@@ -5,7 +5,7 @@
 
 ## 1.1 (27 November 2026)
 
-### Bigger screens, bigger caves
+### Bigger screens, bigger cave view
 - **Resizable game view:** drag the bottom-right corner of the frame around the cave to make
   the view as big as you like. The buttons, the wizard and the info bar move along, and the
   info bar stays centred below the view.
