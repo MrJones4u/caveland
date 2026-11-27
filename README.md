@@ -3,7 +3,7 @@
 
 # Caveland
 
-Caveland is a building and management game in which you guide a colony of dwarves living underground. Originally released in 1997 for Windows 95, the game has now been recompiled and brought back to life as Caveland Revive, allowing it to run on modern Windows PCs.
+Caveland is a building and management game in which you guide a colony of dwarves living underground. Originally released in 1996 for Windows 95, the game has now been recompiled and brought back to life as Caveland Revive, allowing it to run on modern Windows PCs.
 
 The game is available in both German and English and automatically selects the appropriate language based on your Windows language and regional settings. If neither language is configured, German is used for German-speaking regions and English for all others.
 ## Download
@@ -17,18 +17,22 @@ The game is available in both German and English and automatically selects the a
 - On the first start Windows may warn you ("Windows protected your PC") because the file is
   not signed yet. Click **More info** and then **Run anyway**.
 
+## What's new
+
+All changes, version by version: [CHANGELOG.md](CHANGELOG.md)
+
 ## Bug reports, ideas, discussion
 
 - **Found a bug?** Please report it under [Issues](https://github.com/MrJones4u/caveland/issues),
   with your Windows version and what happened in the game before.
-- **Ideas, questions, memories of 1997:** in the
+- **Ideas, questions, memories of 1996:** in the
   [Discussions](https://github.com/MrJones4u/caveland/discussions).
 
 Both need a free GitHub account.
 
 ## Credits
 
-Caveland (1997): concept Tibor Fritzsche and Michael Jones, programming Michael Jones and
+Caveland (1996): concept Tibor Fritzsche and Michael Jones, programming Michael Jones and
 Peter Prade, graphics Jirka Dell'Oro-Friedl and Michel Design, music & sound effects Teflon
 Fonfara and Oliver Krainhöfner, intro & extro Studio Filmbilder. The full credits are in the
 game under **Credits** in the main menu.
