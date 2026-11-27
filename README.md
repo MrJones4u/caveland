@@ -1,40 +1,36 @@
-# Caveland-Revive
+[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
+[![Deutsch](https://img.shields.io/badge/Sprache-Deutsch-blue)](README.de.md)
 
-Caveland ist ein Aufbauspiel um ein Zwergenvolk unter der Erde – 1997 für Windows 95
-erschienen, jetzt als **Caveland Revive** neu übersetzt, damit es auf heutigen Windows-PCs läuft.
-Das Spiel ist auf Deutsch und Englisch: es startet in der Sprache von Windows (Deutsch oder
-Englisch; bei anderen Windows-Sprachen auf Deutsch, wenn die Region deutschsprachig ist).
+# Caveland
 
-*Caveland is a 1997 German building game about dwarfs underground, rebuilt to run on today's
-Windows PCs. It speaks German and English: it starts in the language of Windows (for other
-Windows languages in German when the region is German-speaking, otherwise in English).*
+Caveland is a building and management game in which you guide a colony of dwarves living underground. Originally released in 1997 for Windows 95, the game has now been recompiled and brought back to life as Caveland Revive, allowing it to run on modern Windows PCs.
 
-## Herunterladen
+The game is available in both German and English and automatically selects the appropriate language based on your Windows language and regional settings. If neither language is configured, German is used for German-speaking regions and English for all others.
+## Download
 
-**[Caveland-Revive.exe herunterladen / download](https://github.com/MrJones4u/caveland/releases/latest/download/Caveland-Revive.exe)**
-(neueste Version, alle Versionen unter [Releases](https://github.com/MrJones4u/caveland/releases))
+**[Download Caveland-Revive.exe](https://github.com/MrJones4u/caveland/releases/latest/download/Caveland-Revive.exe)**
+(latest version, all versions under [Releases](https://github.com/MrJones4u/caveland/releases))
 
-- Eine einzige Datei: herunterladen und starten, keine Installation, keine CD nötig.
-- Sprache erzwingen: mit dem Parameter `/deutsch` oder `/english` starten (z.B. in einer Verknüpfung).
-- Windows 10 oder 11, 64 Bit.
-- Beim ersten Start kann Windows warnen („Der Computer wurde durch Windows geschützt“), weil die
-  Datei noch nicht signiert ist. Dann auf **Weitere Informationen** und **Trotzdem ausführen**
-  klicken.
+- A single file: download and run it, no installation, no CD needed.
+- To force a language, start it with the parameter `/english` or `/deutsch` (e.g. in a shortcut).
+- Windows 10 or 11, 64-bit.
+- On the first start Windows may warn you ("Windows protected your PC") because the file is
+  not signed yet. Click **More info** and then **Run anyway**.
 
-## Fehler melden, Ideen, Austausch
+## Bug reports, ideas, discussion
 
-- **Fehler gefunden?** Bitte unter [Issues](https://github.com/MrJones4u/caveland/issues) melden –
-  mit Windows-Version und was vorher im Spiel passiert ist.
-- **Ideen, Fragen, Erinnerungen an 1997:** in den
+- **Found a bug?** Please report it under [Issues](https://github.com/MrJones4u/caveland/issues),
+  with your Windows version and what happened in the game before.
+- **Ideas, questions, memories of 1997:** in the
   [Discussions](https://github.com/MrJones4u/caveland/discussions).
 
-Für beides braucht man ein kostenloses GitHub-Konto.
+Both need a free GitHub account.
 
 ## Credits
 
-Caveland (1997): Idee Tibor Fritzsche und Michael Jones, Programmierung Michael Jones und
-Peter Prade, Grafik Jirka Dell'Oro-Friedl und Michel Design, Musik & Geräusche Teflon Fonfara
-und Oliver Krainhöfner, Intro & Extro Studio Filmbilder. Die vollständigen Credits stehen im
-Spiel unter **Credits** im Hauptmenü.
+Caveland (1997): concept Tibor Fritzsche and Michael Jones, programming Michael Jones and
+Peter Prade, graphics Jirka Dell'Oro-Friedl and Michel Design, music & sound effects Teflon
+Fonfara and Oliver Krainhöfner, intro & extro Studio Filmbilder. The full credits are in the
+game under **Credits** in the main menu.
 
 Caveland Revive (2026): Michael Jones.
