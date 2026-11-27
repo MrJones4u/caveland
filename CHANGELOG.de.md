@@ -5,7 +5,7 @@
 
 ## 1.1 (27. November 2026)
 
-### Größere Bildschirme, größere Höhlen
+### Größere Bildschirme, größere Höhlenansicht
 - **Spielfenster anpassbar:** an der unteren rechten Ecke des Rahmens um die Höhle ziehen und die Ansicht so groß machen, wie man möchte. Knöpfe, Zauberer und Infoleiste rücken mit, die Infoleiste bleibt mittig unter der Ansicht.
 - **Fenster und Vollbild:** das Spielfenster vergrößern oder maximieren, und die Höhlenansicht wächst mit.
 - **Zoom mit dem Mausrad:** von 50 % (viel mehr von der Höhle sehen) bis 400 %, immer um den Mauszeiger herum.
