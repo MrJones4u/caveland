@@ -3,7 +3,7 @@
 
 # Caveland
 
-Caveland ist ein Aufbauspiel um ein Zwergenvolk unter der Erde – 1997 für Windows 95
+Caveland ist ein Aufbauspiel um ein Zwergenvolk unter der Erde – 1996 für Windows 95
 erschienen, jetzt als **Caveland Revive** neu übersetzt, damit es auf heutigen Windows-PCs läuft.
 Das Spiel ist auf Deutsch und Englisch: es startet in der Sprache von Windows (Deutsch oder
 Englisch; bei anderen Windows-Sprachen auf Deutsch, wenn die Region deutschsprachig ist).
@@ -20,18 +20,22 @@ Englisch; bei anderen Windows-Sprachen auf Deutsch, wenn die Region deutschsprac
   Datei noch nicht signiert ist. Dann auf **Weitere Informationen** und **Trotzdem ausführen**
   klicken.
 
+## Was ist neu
+
+Alle Änderungen, Version für Version: [CHANGELOG.de.md](CHANGELOG.de.md)
+
 ## Fehler melden, Ideen, Austausch
 
 - **Fehler gefunden?** Bitte unter [Issues](https://github.com/MrJones4u/caveland/issues) melden –
   mit Windows-Version und was vorher im Spiel passiert ist.
-- **Ideen, Fragen, Erinnerungen an 1997:** in den
+- **Ideen, Fragen, Erinnerungen an 1996:** in den
   [Discussions](https://github.com/MrJones4u/caveland/discussions).
 
 Für beides braucht man ein kostenloses GitHub-Konto.
 
 ## Credits
 
-Caveland (1997): Idee Tibor Fritzsche und Michael Jones, Programmierung Michael Jones und
+Caveland (1996): Idee Tibor Fritzsche und Michael Jones, Programmierung Michael Jones und
 Peter Prade, Grafik Jirka Dell'Oro-Friedl und Michel Design, Musik & Geräusche Teflon Fonfara
 und Oliver Krainhöfner, Intro & Extro Studio Filmbilder. Die vollständigen Credits stehen im
 Spiel unter **Credits** im Hauptmenü.
